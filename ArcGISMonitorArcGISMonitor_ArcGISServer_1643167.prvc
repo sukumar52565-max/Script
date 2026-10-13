@@ -1,0 +1,24 @@
+// ArcGISMonitor_ArcGISServer_1643167.prvc
+
+//Provision
+Provision ID=33AC86D3-E4B3-450A-B0467D44942F1911
+Comment=
+
+
+// User Information
+First Name=Mary
+Last Name=Beaman
+Organization=City of Warsaw
+Department=
+Email=mbeaman@warsaw.in.gov
+Address 1=2056 N 150 W
+City=Warsaw
+State/Province=IN
+Location Code=US
+Location=US
+Zip/Postal Code=46580
+Phone Number=5743729561
+// Version=26.0
+
+// Features and authorization numbers
+ArcGIS Monitor=ECP125323520
